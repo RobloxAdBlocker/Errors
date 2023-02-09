@@ -1,1 +1,1 @@
-h
+<img src="x" onerror="alert('worked')">
